@@ -9,6 +9,12 @@ Department of History,<br />
 
 ---
 
+Run this repo with Binder...
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/thePortus/asc-analysis/master?filepath=1-scrape.ipynb)
+
+---
+
 Installation...
 
 ```sh
