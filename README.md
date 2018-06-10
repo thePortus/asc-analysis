@@ -20,8 +20,11 @@ Installation...
 ```sh
 # clone the repo and move inside the directory
 git clone https://github.com/thePortus/asc-analysis && cd asc-analysis
-# install python requirements and launch jupyter notebook
+
+# install python requirements
 pip install -r requirements.txt
+
+# launch notebook
 jupyter notebook
 ```
 
