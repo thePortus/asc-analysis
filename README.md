@@ -9,9 +9,11 @@ Department of History,<br />
 
 ---
 
-Run this repo with Binder...
+**Run this demonstration in-browser with Binder**
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/thePortus/asc-analysis/master)
+<a alt="Binder" href="https://mybinder.org/v2/gh/thePortus/asc-analysis/master" target="_blank"><img src="https://mybinder.org/badge.svg" /><a/>
+
+You don't even need to clone this repo manually. Click the Binder icon above and Binder will clone the repo and let you run it in browser. Run the scripts, generate the exportable data, and download the results to your local computer!
 
 ---
 
