@@ -47,7 +47,7 @@ These charters were critical documents in the distribution of land and goods, an
 
 ---
 
-![Charter with witness list](./assets/charter-large.png)
+![Charter with witness list](./assets/charter-large.jpg)
 
 *Charter of King Æthelwulf of Wessex to his minister Æthelmod, 843 A.D. *([Source](https://tenthmedieval.wordpress.com/2014/08/21/before-you-write-a-charter/))
 
