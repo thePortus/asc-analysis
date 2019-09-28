@@ -2,6 +2,10 @@
 
 *DH Scraping and Analyzing Medieval Documents and People with Jupyter Notebook*
 
+![Banner image](./assets/network-banner.png)
+
+*A network of nearly 2,500 Anglo-Saxons from 600-900 A.D. connected by appearing together as witnesses in nearly 500 medieval documents.*
+
 [David J. Thomas](mailto:dave.a.base@gmail.com), [thePort.us](http://thePort.us)<br />
 Instructor of Ancient History and Digital Humanities,<br />
 Department of History,<br />
@@ -34,10 +38,6 @@ You don't even need to clone this repo manually. Click the Binder icon above and
 Together, the [Anglo-Saxon Charter (ASC)](http://aschart.kcl.ac.uk) and the [Prosopography of Anglo-Saxon England (PASE)](http://pase.ac.uk/) databases contain massive amounts of information on individuals and sources of individuals in England from 600-900 AD. These workbooks will show you how to use Python3 to scrape these two databases and explore and analyze the data in new ways using network and text analysis. This exercise will focus on charters, legal documents which framed power, and the people in them.
 
 We will use the [requests](https://requests.kennethreitz.org/en/master/) and [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) modules to fetch and parse information, [SQLAlchemy](https://www.sqlalchemy.org/) to store it in a local database, [networkx](https://networkx.github.io) to perform network analysis, and finally the [nltk](http://nltk.org) and [cltk](https://cltk.readthedocs.io) modules to do some text analysis on the documents themselves.
-
-![Banner image](./assets/network-banner.png)
-
-*A network of nearly 2,500 Anglo-Saxons from 600-900 A.D. connected by appearing together as witnesses in nearly 500 medieval documents.*
 
 ---
 
