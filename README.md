@@ -47,6 +47,8 @@ These charters were critical documents in the distribution of land and goods, an
 
 ---
 
+![Charter with witness list](./assets/charter-large.png)
+
 *Charter of King Æthelwulf of Wessex to his minister Æthelmod, 843 A.D. *([Source](https://tenthmedieval.wordpress.com/2014/08/21/before-you-write-a-charter/))
 
 Spread over hundreds of documents, the totality of their interconnections reveals much about the Anglo-Saxon elite. We mush be careful, however. These documents were heavily ideological, and appearances together in a legal document do not necessarily denote a meaningful connection in practice. But, if we consider these documents another way, we can learn so much more. Looking at the sum of these connections may not tell us about the *reality* of social connections, but it can tell us worlds about the *image* of social relationships **that they wanted to project to others**.
