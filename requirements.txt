@@ -1,5 +1,4 @@
 beautifulsoup4==4.11.1
-jupyter==1.0.0
 matplotlib==3.6.2
 networkx==2.8.8
 python-louvain==0.16
