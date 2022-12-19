@@ -12,7 +12,7 @@
 
 **Run this demonstration in-browser with Binder**
 
-<a alt="Binder" href="https://mybinder.org/v2/gh/thePortus/asc-analysis/HEAD?urlpath=lab/notebooks/1-scrape.ipynb" target="_blank"><img src="https://mybinder.org/badge.svg" /><a/>
+<a alt="Binder" href="https://mybinder.org/v2/gh/thePortus/asc-analysis/HEAD?urlpath=lab/tree/notebooks/1-scrape.ipynb" target="_blank"><img src="https://mybinder.org/badge.svg" /><a/>
 
 ---
 
@@ -30,7 +30,7 @@ This repository will demonstrate how to...
 
 **Run this demonstration in-browser with Binder**
 
-<a alt="Binder" href="https://mybinder.org/v2/gh/thePortus/asc-analysis/HEAD?urlpath=lab/notebooks/1-scrape.ipynb" target="_blank"><img src="https://mybinder.org/badge.svg" /><a/>
+<a alt="Binder" href="https://mybinder.org/v2/gh/thePortus/asc-analysis/HEAD?urlpath=lab/tree/notebooks/1-scrape.ipynb" target="_blank"><img src="https://mybinder.org/badge.svg" /><a/>
 
 You don't even need to clone this repo manually. Click the Binder icon above and Binder will clone the repo and let you run it in browser. Run the scripts, generate the exportable data, and download the results to your local computer!
 
