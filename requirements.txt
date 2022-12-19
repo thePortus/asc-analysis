@@ -4,4 +4,5 @@ matplotlib
 networkx
 python-louvain
 requests
+scipy
 SQLAlchemy
